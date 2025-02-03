@@ -1,10 +1,10 @@
 ﻿# pharmacy-management-system
 
-This project is a Pharmacy Management System built using Java and MySQL. It allows doctors to manage medicines, update stock, and create promotional codes. Customers can make orders, view medicines, and apply promo codes for discounts. It uses JDBC for database connectivity and SQL for managing the backend.
+This project is a Pharmacy Management System built using **Java** and **MySQL**. It allows doctors to manage medicines, update stock, and create promotional codes. Customers can make orders, view medicines, and apply promo codes for discounts. It uses **JDBC** for database connectivity and **SQL** for managing the backend.
 
 ## Features
 
-### 🩺 Doctor/Pharmacist Module
+### Doctor/Pharmacist Module
 - **Add** new medicines to inventory.
 - **Update** medicine details and stock quantities.
 - **Remove** expired/discontinued medicines.
@@ -28,7 +28,7 @@ This project is a Pharmacy Management System built using Java and MySQL. It allo
   <img src="https://github.com/user-attachments/assets/bbddbbf0-d983-4346-bf9c-e74f8094051b">
 </div>
 
-### 📊 Admin Features
+###  Admin Features
 - MySQL database backend.
 - Role-based user authentication.
 - Sales transaction recording.
